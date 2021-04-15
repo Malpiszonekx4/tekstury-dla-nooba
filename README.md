@@ -1,1 +1,1 @@
-Ore overlay - MC 
+Ore overlay - tested MC 1.8 - 1.16
